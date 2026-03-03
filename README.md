@@ -83,7 +83,7 @@ FPnA-Financial-Dashboard/
 │
 ├── assets/
 │   ├── dashboard_preview.png
-│   ├── FPnA_Financial_Performance_Walkthrough.mp4
+│   ├── FPnA_Financial_Performance_Walkthrough.mov
 │   └── README.md
 │
 ├── data/
