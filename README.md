@@ -78,6 +78,7 @@ A short walkthrough of the dashboard is available in:
 `assets/FPnA_Financial_Performance_Walkthrough.mov`
 
 ## Repository Structure
+```
 FPnA-Financial-Dashboard/
 │
 ├── assets/
@@ -95,6 +96,7 @@ FPnA-Financial-Dashboard/
 │   └── README.md
 │
 └── README.md
+```
 
 ## Design Principles
 
