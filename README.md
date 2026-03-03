@@ -1,4 +1,4 @@
-# FPnA Financial Dashboard
+# Earnings Performance Analysis using SEC Filings (10-K/10-Q)
 Executive-level financial performance analysis evaluating revenue growth, profitability trends, and cost dynamics across fiscal years 
 2023-2025 for american express. 
 
