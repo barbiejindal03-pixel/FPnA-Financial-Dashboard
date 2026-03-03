@@ -6,7 +6,7 @@ This folder contains visual and supporting materials related to the FP&A Financi
 Static image of the final Tableau dashboard layout.
 Used for quick visual reference within the main repository README.
 
-### FPnA_Financial_Performance_Walkthrough.mp4
+### FPnA_Financial_Performance_Walkthrough.mov
 
 Short screen recording demonstrating:
 
