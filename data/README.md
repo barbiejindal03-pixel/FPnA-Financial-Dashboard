@@ -6,7 +6,15 @@ The dataset supports a structured financial performance analysis covering fiscal
 
 ## Files in This Folder
 
-### 1. financial_data_Amex.xlsx
+### 1. amex_2025_source.pdf
+
+This PDF represents the original financial source reference used to construct the dataset.
+
+It serves as a documentation and validation layer to ensure financial accuracy and transparency.
+
+All modeled values in the Excel file were reconciled against this source
+
+### 2. financial_data_Amex.xlsx
 
 This Excel file contains the structured financial dataset used for modeling and dashboard development.
 
@@ -21,14 +29,6 @@ It includes base financial statement metrics such as:
 Derived financial metrics (margins, growth rates, leverage) were calculated using this file as the base modeling layer.
 
 The structure follows a standardized tabular format organized by fiscal year.
-
-### 2. amex_2025_source.pdf
-
-This PDF represents the original financial source reference used to construct the dataset.
-
-It serves as a documentation and validation layer to ensure financial accuracy and transparency.
-
-All modeled values in the Excel file were reconciled against this source.
 
 ## Financial Modeling Structure
 
