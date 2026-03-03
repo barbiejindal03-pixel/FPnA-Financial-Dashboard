@@ -98,12 +98,3 @@ FPnA-Financial-Dashboard/
 └── README.md
 ```
 
-## Design Principles
-
-This project emphasizes:
-- Transparent financial logic  
-- Separation of modeling and visualization  
-- Structured KPI computation  
-- Reproducible margin analysis  
-- Executive-focused insight communication  
-
