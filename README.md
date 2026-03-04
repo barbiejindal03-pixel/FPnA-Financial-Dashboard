@@ -100,3 +100,5 @@ FPnA-Financial-Dashboard/
 └── README.md
 ```
 
+*Note: This project is for practice purpose only*
+
