@@ -3,6 +3,8 @@
 > **Machine Learning · ARIMA Time Series Forecasting · Interactive Financial Analytics**  
 > Built with Python, R, Streamlit, and Plotly using 10 years of official SEC EDGAR filings.
 
+🚀 **Live Demo:** [amex-dashboard.streamlit.app](https://amex-dashboard.streamlit.app)
+
 ---
 
 ## 📌 Project Overview
