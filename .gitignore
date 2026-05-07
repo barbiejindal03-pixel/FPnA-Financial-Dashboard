@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Mac
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Intermediate/duplicate data files (keep only clean versions)
+amex_clean.csv
+amex_edgar_quarterly.csv
+amex_full.csv
+amex_quarterly.csv
