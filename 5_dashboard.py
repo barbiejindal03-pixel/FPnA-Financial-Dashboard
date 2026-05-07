@@ -106,7 +106,7 @@ st.markdown(f"""
 
 # ── Data loading ─────────────────────────────────────────────────────────────
 import os
-BASE = os.path.join(os.path.dirname(__file__), "")
+BASE = os.path.join(os.path.dirname(__file__), "data/processed/")
 
 @st.cache_data
 def load_data():
