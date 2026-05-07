@@ -174,7 +174,7 @@ st.markdown(f"""
 <div class="amex-header">
   <h1>💳 American Express — FP&A Intelligence</h1>
   <p>Machine Learning · Time Series Forecasting · Financial Analytics &nbsp;|&nbsp;
-     {df_filtered['Quarter'].min().strftime('%Y')} – {df_filtered['Quarter'].max().strftime('%Y')}</p>
+     2016 – 2026 &nbsp;·&nbsp; 65 Quarters &nbsp;·&nbsp; SEC EDGAR</p>
 </div>
 """, unsafe_allow_html=True)
 
