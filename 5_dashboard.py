@@ -105,7 +105,8 @@ st.markdown(f"""
 
 
 # ── Data loading ─────────────────────────────────────────────────────────────
-BASE = "/Users/barbiejindal/Desktop/amex_project/"
+import os
+BASE = os.path.join(os.path.dirname(__file__), "")
 
 @st.cache_data
 def load_data():
