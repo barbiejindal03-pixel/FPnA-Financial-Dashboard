@@ -1,4 +1,4 @@
-# American Express — FP&A Intelligence Dashboard
+# American Express — Earning Performance Analysis
 
 Live Demo: [amex-dashboard.streamlit.app](https://amex-dashboard.streamlit.app)
 
